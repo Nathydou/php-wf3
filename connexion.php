@@ -35,7 +35,7 @@ if (empty($errors)) {
 				die;
 			}
 		}
-		$errors[] = 'Identifiant ou mot de passe incorrect';
+		$errors[] = 'Identifiant ou mot de passe incorrect, recommencez';
 	}
 }
 
