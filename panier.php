@@ -94,7 +94,7 @@ else :
 
 <table class="table">
 		<tr>
-			<th>Nom produit</th>
+			<th>nom produit</th>
 			<th>Prix unitaire</th>
 			<th>Quantité</th>
 			<th>Total</th>
