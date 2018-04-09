@@ -12,7 +12,7 @@ $src = (!empty($produit['photo']))
 
 if (!empty($_POST)) {
 	ajoutPanier($produit, $_POST['quantite']);
-	setFlashMessage('Le produit est ajouté au panier');
+	setFlashMessage('Merci de valider votre panier');
 }
 
 // echo '<pre>';
