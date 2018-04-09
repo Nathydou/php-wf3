@@ -14,7 +14,7 @@ $produits = $stmt->fetchAll();
 include __DIR__ . '/layout/top.php';
 ?>
 
-<h1><?=$titre; ?></h1>
+<h1>Le titre de <?=$titre; ?></h1>
 
 <div class="row">
 	<?php
